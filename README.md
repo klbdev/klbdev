@@ -5,4 +5,4 @@ I am a coding hobbyist living in Singapore. On the journey of self-improvement, 
 ## Alma mater
 
 ## Certificates
-CS50x, Introduction to computer science from Harvard University.
+CS50x, Introduction to Computer Science from HarvardX
