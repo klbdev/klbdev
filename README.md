@@ -4,5 +4,5 @@ I am a coding hobbyist living in Singapore. On the journey of self-improvement, 
 
 ## Alma mater
 
-## Certificates
+## Certificates 📜
 CS50x, Introduction to Computer Science from HarvardX [Certificate](https://certificates.cs50.io/055f7c86-7e18-49b9-a24c-43e98d8fa60b.pdf?size=letter)
