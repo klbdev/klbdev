@@ -5,6 +5,6 @@ I am a coding hobbyist living in Singapore. On the journey of self-improvement, 
 ## Alma mater
 
 ## Certificates 📜
-CS50x: Introduction to Computer Science from HarvardX. [Certificate](https://certificates.cs50.io/055f7c86-7e18-49b9-a24c-43e98d8fa60b.pdf?size=letter)
-
-CS50P: Introduction to Programming with Python from HarvardX. [Certificate](https://certificates.cs50.io/57bbd99b-07e8-40ec-bcff-89328b1a51e4.pdf?size=letter)
+CS50x: Introduction to Computer Science from HarvardX. [Certificate](https://certificates.cs50.io/055f7c86-7e18-49b9-a24c-43e98d8fa60b.pdf?size=letter)  
+CS50 Python: Introduction to Programming with Python from HarvardX. [Certificate](https://certificates.cs50.io/57bbd99b-07e8-40ec-bcff-89328b1a51e4.pdf?size=letter)  
+CS50 SQL: Introduction to Databases with SQL from HarvardX [Certificate](https://certificates.cs50.io/58266007-e275-4962-a075-742e136c08a6)
